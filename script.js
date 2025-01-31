@@ -1,6 +1,6 @@
 // === Todo CRUD Management ===
 
-// Array to store todos
+// Array to store todo
 let todos = [];
 
 // DOM Elements
